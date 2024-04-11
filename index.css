@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(./homeilg.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.div1 {
+    width: 500px;
+    height: 400px;
+    background-color: hsl(0, 0%, 100%);
+    position: relative;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+p {
+    margin-top: 30px;
+}
+
+
+.div1 h1 {
+    font-weight: bolder;
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+.div1 p {
+    color: hsl(292, 16%, 49%);
+    /* font-size: 12px; */
+
+}
+
+.img-icon {
+    width: 22px;
+    height: 20px;
+}
+
+.p-borger {
+    border: 1px solid rgb(231, 227, 227);
+}
+
+.p-in {
+    font-size: 20px;
+    color: darkred;
+    margin-top: -3px;
+}
+
+.head-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-img {
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    /* position: absolute; */
+}
+
+.information p {
+    color: black;
+    /* font-size: 12px; */
+}
+
+.hide {
+    display: none;
+}
+
+.p-fir1 {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.p-fir2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ima{
+    margin-top: 4vh;
+}
+
+.cont-last{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.imas{
+    margin-top: 4vh;
+    margin-left: 9vh;
+}
